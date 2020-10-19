@@ -179,6 +179,3 @@ class FormCrawler:
             sys.exit(0)
         self.__print('Preparing founded forms')
         return self.__prepare_founded_forms()
-
-obj = FormCrawler(verbose=True)
-obj.RUN(website='https://service2.diplo.de')
