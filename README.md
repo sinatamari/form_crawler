@@ -1,3 +1,3 @@
-# SinTa Encryptor
+# Form Crawler
 
-Manage and encrypt your files with this application
+Extract all forms of a website and their inputs in a compatable format with your scripts
