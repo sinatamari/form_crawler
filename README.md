@@ -2,4 +2,4 @@
 
 Extract all forms of a website and their inputs in a compatable format with your scripts
 
-![alt text](https://github.com/sinatamari/form_crawler/Screenshot.png?raw=true "Title")
+<img src="https://github.com/sinatamari/form_crawler/Screenshot.png" width="350" alt="accessibility text">
